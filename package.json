@@ -1,0 +1,22 @@
+{
+  "name": "nws92216",
+  "version": "1.0.0",
+  "description": "PWM Nodebots Meetup 9/22/2016",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frxnz/nws92216.git"
+  },
+  "author": "Derek Wheelden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frxnz/nws92216/issues"
+  },
+  "homepage": "https://github.com/frxnz/nws92216#readme"
+}
